@@ -1,4 +1,4 @@
-module github.com/tinkerbaj/chatwebsocketgin
+module github.com/lisyaoran51/chat-websocket-gin
 
 go 1.18
 

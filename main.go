@@ -1,9 +1,10 @@
 package main
 
 import (
-	"github.com/gin-gonic/gin"
-	"github.com/tinkerbaj/chatwebsocketgin/chat"
 	"log"
+
+	"github.com/gin-gonic/gin"
+	"github.com/lisyaoran51/chat-websocket-gin/chat"
 )
 
 func main() {
